@@ -1,0 +1,4 @@
+name: rails
+description: A Helm chart for my rails apps in Kubernetes
+apiVersion: v1
+version: v0.1.0
